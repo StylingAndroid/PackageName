@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">PackageName</string>
+  <string name="package_name">Package Name: %s</string>
+  <string name="application_id">Application ID: %s</string>
+</resources>
